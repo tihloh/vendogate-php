@@ -1,5 +1,5 @@
 {
-  "name": "tihloh/vendo-gateway",
+  "name": "tihloh/vendogate-php",
   "description": "Reusable device gateway for coin-operated, vending and IoT hardware.",
   "type": "library",
   "license": "MIT",
