@@ -3,7 +3,7 @@
 Framework-neutral Composer package for securely connecting ESP8266/ESP32 vending and IoT hardware to PHP applications.
 
 ```bash
-composer require tihloh/vendo-gateway
+composer require tihloh/vendogate-php
 ```
 
 ## What the package owns
