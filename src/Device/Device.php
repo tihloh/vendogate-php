@@ -12,6 +12,7 @@ final readonly class Device
         public ?string $hardwareModel,
         public ?string $hardwareRevision,
         public ?string $firmwareVersion,
-        public ?\DateTimeImmutable $lastSeenAt
+        public ?\DateTimeImmutable $lastSeenAt,
+        public ?string $lastIp=null
     ) {}
 }
